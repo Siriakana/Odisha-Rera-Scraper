@@ -36,21 +36,31 @@ Install dependencies:
 bash
 
 pip install -r requirements.txt
+
 Usage
+
 Run the scraper using:
 
 bash
+
 python scraper.py
+
 After execution, the project details will be saved in rera_projects.csv.
 
+
+
 Requirements
+
 Create a requirements.txt file containing:
 
 nginx
 
 selenium
+
 beautifulsoup4
+
 pandas
+
 webdriver-manager
 
 
